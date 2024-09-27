@@ -1,6 +1,6 @@
-Team name:
+Team name: jyo
 
-Team members:
+Team members:Jyotshna Nallabothula
 
 # Introduction
 
