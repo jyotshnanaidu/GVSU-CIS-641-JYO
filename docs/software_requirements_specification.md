@@ -1,12 +1,12 @@
-# Software Requirements Specification for Random Password Generator
+# Software Requirements Specification for Password Generator
 
 ## Overview
-This document outlines the software requirements for the Random Password Generator application. The application aims to generate strong, random passwords to enhance digital security for users.
+This document outlines the software requirements for the  Password Generator application. The application aims to generate strong,  passwords to enhance digital security for users.
 
 ## Functional Requirements
 
 ### 1. Password Generation Features
-  #### 1.1  The application shall generate a random password when the user clicks the "Generate" button.
+  #### 1.1  The application shall generate a  password when the user clicks the "Generate" button.
   #### 1.2  The user shall have the option to specify the desired length of the password, with a minimum and maximum limit.
   #### 1.3  The application shall allow users to select character types to include in the password, such as uppercase letters, lowercase letters, numbers, and special symbols.
   #### 1.4  The application shall include a "Copy to Clipboard" button that allows users to easily copy the generated password for use elsewhere.
