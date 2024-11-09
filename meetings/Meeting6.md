@@ -1,0 +1,22 @@
+### **Meeting 6: Backend Setup and Implement Authentication**
+
+**Team name:** JYO\
+**Members present:** Jyotshna\
+**Date:**\
+**Time:**
+
+#### **Discussion Points**
+
+-   Set up backend architecture
+-   Begin implementing user stories
+
+#### **Goals for Next Week**
+
+1.  **Backend Architecture Setup**
+
+    -   **Responsibility**: Jyotshna
+    -   **Task**: Define and set up the backend structure and configuration.
+2.  **Implement User Stories**
+
+    -   **Responsibility**: Jyotshna
+    -   **Task**: Begin implementing password gen alog utilities and other required functions.
