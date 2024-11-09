@@ -1,6 +1,4 @@
-# Meeting Instructions[1]
-
-## Meeting minutes template
+# Meeting [1]
 
 Team name: JYO
 
