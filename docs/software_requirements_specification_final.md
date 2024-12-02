@@ -10,7 +10,7 @@
 - **1.5** The application shall provide a "Regenerate Password" button to create a new password without refreshing the page.
 
 ### 2. Password Customization Features
-- **2.1** The application shall allow users to specify the exact number of uppercase, lowercase, numeric, and special characters in the password.
+- **2.1** The application shall allow users to specify the rank number of uppercase, lowercase, numeric, and special characters in the password.
 - **2.2** The application shall offer a toggle to avoid ambiguous characters (e.g., 'O', '0', 'I', 'l').
 - **2.3** The application shall enable users to exclude specific characters or sequences (e.g., "123", "abc").
 - **2.4** The application shall provide a preview option to show a sample of the password based on current settings.
