@@ -124,4 +124,5 @@ As a web-based tool, it may encounter user-reported bugs over time. Planning reg
 - [Class Diagram](https://github.com/jyotshnanaidu/GVSU-CIS-641-JYO/blob/main/artifacts/class_diagram.pdf)
 - [Flow Diagram](https://github.com/jyotshnanaidu/GVSU-CIS-641-JYO/blob/main/artifacts/flow_diagram.pdf)
 - [Object Diagram](https://github.com/jyotshnanaidu/GVSU-CIS-641-JYO/blob/main/artifacts/object_diagram.pdf)
+- [Use Case Diagram](https://github.com/jyotshnanaidu/GVSU-CIS-641-JYO/blob/main/artifacts/use_case_diagram.pdf)
 - [Sequence Diagrams](https://github.com/jyotshnanaidu/GVSU-CIS-641-JYO/blob/main/artifacts/sequence_diagrams.pdf)
