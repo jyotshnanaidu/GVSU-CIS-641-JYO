@@ -5,14 +5,14 @@
 ### 1. Password Generation Features
 - **1.1** The application shall generate a password when the user clicks the "Generate" button.
 - **1.2** The user shall have the option to specify the desired length of the password, with a minimum of 8 and a maximum of 20 characters.
-- **1.3** The application shall allow users to include or exclude specific character types, such as uppercase letters, lowercase letters, numbers, and special symbols.
+- **1.3** The application shall allow users to include or exclude specific character types, such as uppercase letters, lowercase letters.
 - **1.4** The application shall include a "Copy to Clipboard" button to easily copy the generated password for use elsewhere.
 - **1.5** The application shall provide a "Regenerate Password" button to create a new password without refreshing the page.
 
 ### 2. Password Customization Features
-- **2.1** The application shall allow users to specify the rank number of uppercase, lowercase, numeric, and special characters in the password.
+- **2.1** The application shall allow users to specify the inclusion of numbers, and special symbols.
 - **2.2** The application shall offer a toggle to avoid ambiguous characters (e.g., 'O', '0', 'I', 'l').
-- **2.3** The application shall enable users to exclude specific characters or sequences (e.g., "123", "abc").
+- **2.3** The application shall enable users to include specific characters or sequences (e.g., "123", "abc").
 - **2.4** The application shall provide a preview option to show a sample of the password based on current settings.
 - **2.5** The application shall allow users to lock selected characters in place and regenerate the remaining characters.
 
@@ -24,18 +24,18 @@
 - **3.5** The application shall offer a search feature to filter the session-based password history.
 
 ### 4. Password Strength Analysis
-- **4.1** The application shall display a strength indicator (e.g., weak, moderate, strong) for the generated password based on predefined rules.
-- **4.2** The application shall provide feedback on how to improve password strength (e.g., "Add special characters").
-- **4.3** The application shall include a visual representation of strength (e.g., a progress bar).
+- **4.1** The application shall display a strength indicator in the form of an image instead of progress bar.
+- **4.2** The application shall use third party API to check breach status.
+- **4.3** The application shall include a confirmation right next to password indicating breach status.
 - **4.4** The strength evaluation algorithm shall follow NIST guidelines for password complexity.
-- **4.5** The application shall display warnings for weak passwords when users attempt to save or copy them.
+- **4.5** The application shall display warnings for breached passwords when users attempt to copy them.
 
 ### 5. User Interface Features
 - **5.1** The application shall provide a responsive design to ensure usability across devices of various sizes.
-- **5.2** The application shall support both light and dark modes for user convenience.
-- **5.3** The user interface shall feature tooltips explaining each feature or option.
+- **5.2** The application shall support rich interface in adherence to design principles
+- **5.3** The user interface shall feature tooltips explaining each feature or option wherever required.
 - **5.4** The application shall use keyboard shortcuts for commonly used actions like generating or copying passwords.
-- **5.5** The application shall display error messages for invalid inputs (e.g., password length out of range).
+- **5.5** The application shall display error messages for invalid scenarios.
 
 ---
 
