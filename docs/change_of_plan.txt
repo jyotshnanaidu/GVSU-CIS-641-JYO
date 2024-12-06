@@ -1,0 +1,8 @@
+Encouraging People on Security Practices
+Encouraging adoption of security practices can be complex, so collaborating with the cybersecurity team is critical. Campaigns, webinars can help raise awareness, making password management relatable and engaging. By demonstrating real-world consequences of weak passwords and providing actionable guidance, we can foster a culture of proactive security.
+
+Integration with Existing Workflows
+To ensure seamless integration, the tool can be embedded into the password reset cycle, aligning with organizational policies like mandatory resets every three months. It can also integrate with single sign-on (SSO) platforms or employee onboarding workflows, enhancing usability.
+
+Discovered Issues
+As a web application, global scalability may expose unforeseen bugs, so a proactive issue management system is essential. Utilizing GitHub Issues ensures efficient tracking, prioritization, and resolution of bugs while maintaining transparency with users.
