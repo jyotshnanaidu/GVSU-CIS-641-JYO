@@ -1,9 +1,9 @@
-### **Meeting 6: Backend Setup and Implement Authentication**
+### **GVSU-CIS641-JYO-2024-11-18.md: Backend Setup and Implement Authentication**
 
 **Team name:** JYO\
 **Members present:** Jyotshna\
-**Date:**\
-**Time:**
+**Date:**\11\18\2024
+**Time:**9PM
 
 #### **Discussion Points**
 
